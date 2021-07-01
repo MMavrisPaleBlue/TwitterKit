@@ -17,9 +17,9 @@ let package = Package(
   ],
   targets: [
     .binaryTarget(
-                name: "TwitterKit",
-                url: "https://github.com/ResultsDirect/twitter-kit-ios/releases/download/v5.1.1/TwitterKit.xcframework.zip",
-                checksum: "b20b562405faef1c1155765ee2995d07292dbb7601a0a923ccc262b689e64d03"
-            ),
+      name: "TwitterKit",
+      url: "https://github.com/ResultsDirect/twitter-kit-ios/releases/download/v5.1.2/TwitterKit.xcframework.zip",
+      checksum: "a5cae47f0afc55aef8faf9256917ad244d2521900ea1827efe73c51268da0177"
+    ),
   ]
 )
